@@ -17,5 +17,7 @@ Here are some ideas to get you started:
   
 > Welcome to my profile! I'm interested in Web, App, Embedded and how framworks work.
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turtle-Hwan&show_icons=true&bg_color=DEG,e8f245,73C72D,5f9f29&title_color=395126&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Turtle-Hwan&show_icons=true&bg_color=cdffa5&title_color=395126&text_color=395126&layout=compact&exclude_repo=study&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
