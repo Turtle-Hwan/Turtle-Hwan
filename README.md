@@ -1,5 +1,5 @@
 ### Hi there 👋 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTurtle-Hwan&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTurtle-Hwan&count_bg=%2379C83D&title_bg=%230F3023&icon=&icon_color=%23FFFFFF&title=traveled&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **Turtle-Hwan/Turtle-Hwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 > I'm interested in Web, App, Embedded and how framworks work.
 
 ### 🌱 I’m currently learning & 🤔 I'm currently interested   
-
+<!-- 
 [![](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)]()
 [![](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Turtle-Hwan)
+-->
+
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C1?style=flat&logo=C%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
@@ -32,13 +34,16 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white)
 
+<!--
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
-
+-->
+<!--
 ![](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+-->
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
