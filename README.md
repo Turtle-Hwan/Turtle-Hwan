@@ -12,18 +12,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTurtle-Hwan&count_bg=%2379C83D&title_bg=%230F3023&icon=&icon_color=%23FFFFFF&title=traveled&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTurtle-Hwan&count_bg=%2379C83D&title_bg=%230F3023&icon=&icon_color=%23FFFFFF&title=traveled&edge_flat=false)](https://hits.seeyoufarm.com)  
+> ☄️🌌🚀Nice to meet you, Hitchhiker who have traveled here through the galaxy!🌠🪐🛸  
+
 # 👋 Intro of Turtle-hwan
-호기심을 원동력으로 삼는 개발자 김지환 입니다!   
-궁금한 것이 생기면 막히거나 느리더라도 꾸준하게 끝까지 파고드는 것을 좋아합니다.   
+> 호기심을 원동력으로 꾸준히 성장하는 개발자 김지환 입니다!   
+- 궁금한 것이 생기면 막히거나 느리더라도 끝까지 파고듭니다.
+- 직면한 어려움을 기술적으로 해결하는 것을 좋아합니다.
 
 ## 📚 Education & Experience
-<!--
-#### 🏫 건국대학교 (Konkuk Univ) : 2019~ , Civil & Environmental Engineering / Computer Science & Engineering)
-  - KUIT
-#### 42Seoul
+#### 🏫 건국대학교 (Konkuk Univ) : 2019 ~ . 
+  - Major : Civil & Environmental Engineering
+  - Double Major : Computer Science & Engineering
+#### 42Seoul : 2023 ~ . 10th jihwanki
 
--->
 
 ## 💻 Project & Studying
 <!-- 
