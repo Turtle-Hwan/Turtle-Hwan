@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTurtle-Hwan&count_bg=%2379C83D&title_bg=%230F3023&icon=&icon_color=%23FFFFFF&title=traveled&edge_flat=false)](https://hits.seeyoufarm.com)  
-> ☄️🌌🚀Nice to meet you, Hitchhiker who have traveled here through the galaxy!🌠🪐🛸  
+> ☄️🌌🚀Nice to meet you, Hitchhikers who have traveled here across the galaxy!🌠🪐🛸  
 
 # 👋 Intro of Turtle-hwan
 > 호기심을 원동력으로 꾸준히 성장하는 개발자 김지환 입니다!   
@@ -21,20 +21,16 @@ Here are some ideas to get you started:
 - 직면한 어려움을 기술적으로 해결하는 것을 좋아합니다.
 
 ## 📚 Education & Experience
-#### 🏫 건국대학교 (Konkuk Univ) : 2019 ~ . 
+#### 🏫 건국대학교 (Konkuk Univ) : 2019.03 ~ 재학 중   
   - Major : Civil & Environmental Engineering
   - Double Major : Computer Science & Engineering
-#### 42Seoul : 2023 ~ . 10th jihwanki
+#### 42Seoul 10th Cadet : 2023.10 ~ 2024.07
+  - peer learning & project based learning based C language
 
 
-## 💻 Project & Studying
-<!-- 
-프로젝트명 : 프로젝트 설명 / 구현 기술 / 사용 기술 태그 
--> 큰 프로젝트들 기록 -> 아래에 작은 프로젝트들 모아서 한 줄 정도씩 기록
--->
-
+<!--
 ## ✨ Skills
-<!--세 가지로 나눠서 설명 및 tag image 달기
+세 가지로 나눠서 설명 및 tag image 달기
 #### Implement and Deploy Full Services ★★★
 HTML / CSS
 - 반응형 디자인 / SEO / Tailwind, Bootstrap 
@@ -51,6 +47,15 @@ React
 ## 대학 공부 -> 블로그 or obsidian 모음 repo 링크로
 ## Blog Posts
 -->
+
+
+<!-- 
+## 💻 Project & Studying
+프로젝트명 : 프로젝트 설명 / 구현 기술 / 사용 기술 태그 
+-> 큰 프로젝트들 기록 -> 아래에 작은 프로젝트들 모아서 한 줄 정도씩 기록
+-->
+
+
 
 
 <!--
