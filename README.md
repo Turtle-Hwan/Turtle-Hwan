@@ -10,9 +10,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTurtle-Hwan&count_bg=%2379C83D&title_bg=%230F3023&icon=&icon_color=%23FFFFFF&title=traveled&edge_flat=false)](https://hits.seeyoufarm.com)  
+-->
+
+
 > ☄️🌌🚀Nice to meet you, Hitchhikers who have traveled here across the galaxy!🌠🪐🛸  
 
 # 👋 Intro of Turtle-hwan
