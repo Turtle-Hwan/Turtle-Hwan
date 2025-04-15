@@ -53,6 +53,16 @@ Here are some ideas to get you started:
 #### 42Seoul 10th Cadet : 23.10 ~ 24.07
   - peer learning & project based learning based C language
 
+<!-- git animals -->
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Turtle-Hwan&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/Turtle-Hwan"
+      width="600"
+      height="300"
+    />
+  </a>
+</div>
 
 <!--
 ## ✨ Skills
