@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   - 특정 음식 사진마다 리뷰 요약 및 상세 정보 모달 창을 구현하였습니다. 클릭 시 각 영역이 개별적으로 늘어나고 줄어드는 애니메이션을 만들어 붙였습니다.
   - 기존 Jpeg 이미지 최적화 및 안정적인 서버 유지를 위해 이미지 요청이 들어올 때마다 Webp로 변환해서 캐싱하는 S3 Object Lambda, CloudFront 아키텍처를 구현하였습니다.
       - 이를 통해 **User Data Transfer 용량 15% 이상 감소**하였고, **LCP, FCP 0.3s 이상 감소**하였습니다.
-  - WEB QRLogin 후 내가 저장한 맛집 페이지의 폴더, 식당 CRUD와 연동된 지도 Marker, InfoWindow 구현 (기여도 60%)
+  - WEB QRLogin 후 내가 저장한 맛집 페이지의 폴더, 식당 CRUD와 연동된 지도 Marker, InfoWindow 구현 (기여도 30%)
 
 ### 엘리스 ([@elice](https://elice.io/ko)) : 24.07 ~ 24.08
 > Elice-web Design System 마이그레이션
