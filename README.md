@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 ### 건국대학교 (Konkuk Univ) : 19.03 ~ 재학 중 (26.2 졸업 예정)    
   - Major : Civil & Environmental Engineering
   - Double Major : Computer Science & Engineering
+  - Communities : @gdsc-konkuk @Konkuk-KUIT
+
 ### 42Seoul 10th Cadet : 23.10 ~ 24.07
   - peer learning & project based learning based C language
 
