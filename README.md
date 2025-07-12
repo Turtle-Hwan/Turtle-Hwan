@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 새로 알게 된 내용을 **정돈된 글로 남기는 것**을 좋아합니다.
     - 블로그와 노션에 꾸준히 기록하고, 코드리뷰와 PR, ISSUE를 자세하면서 읽기 쉽게 쓰려고 노력합니다.
 - 팀원들과 적극적으로 의논하며 **함께하는 성장을 추구**합니다.
-    - 2년 이상 개발동아리 운영진으로 활동하며 9번의 강의와 세션, 12개의 기술 스터디를 진행하였습니다.
+    - 2년 이상 개발동아리 운영진으로 활동하며 9번의 세션과 [강의](https://www.youtube.com/channel/UC1fIruuB30VzS0HNPRP09TQ), 12개의 기술 스터디를 진행하였습니다.
 
 # 💼 Experience
 ### 다이닝코드 ([@diningcode](https://www.diningcode.com/)) : 24.12 ~ 25.02
