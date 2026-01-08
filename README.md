@@ -32,6 +32,10 @@ Here are some ideas to get you started:
     - 2년 이상 개발동아리 운영진으로 활동하며 9번의 세션과 [강의](https://www.youtube.com/channel/UC1fIruuB30VzS0HNPRP09TQ), 12개의 기술 스터디를 진행하였습니다.
 
 # 💼 Experience
+
+### AIM-Intelligence : 25.04 ~ 25.12
+> AI Safety를 위한 LLM Monitoring, Guard Service 개발
+
 ### 다이닝코드 ([@diningcode](https://www.diningcode.com/)) : 24.12 ~ 25.02
 > PHP, Vanilla JS, React Mono Repo로 이루어진 Web Frontend 유지 보수 및 신규 기능 개발
   - 특정 음식 사진마다 리뷰 요약 및 상세 정보 모달 창을 구현하였습니다. 클릭 시 각 영역이 개별적으로 늘어나고 줄어드는 애니메이션을 만들어 붙였습니다.
