@@ -8,6 +8,8 @@
 [![Tistory](https://img.shields.io/badge/Tistory-FF5544?style=for-the-badge&logo=tistory&logoColor=white)](https://turtle-hwan.tistory.com/)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://turtlehwan.notion.site/?source=copy_link)
 
+🇰🇷 한국어 | 🇺🇸 [English](./README_EN.md)
+
 </div>
 
 ## About Me
