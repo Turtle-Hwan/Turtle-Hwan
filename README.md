@@ -36,6 +36,19 @@
 | [엘리스](https://elice.io/ko)                             | Frontend Engineer          | `24.07 - 24.08` | MUI 기반 Design System 마이그레이션 </br> Lighthouse 접근성 개선                  |
 | [정보보호병](https://www.army.mil.kr/sites/army/index.do) | CERT, Information Security | `22.01 - 23.07` | 정보보안체계 운영 & 자동화                                                        |
 
+## Projects & Organizations
+
+| 제목                                                                               | 기간              | 요약                                                                      |
+| :--------------------------------------------------------------------------------- | :---------------- | :------------------------------------------------------------------------ |
+| [LinKU](https://github.com/Turtle-Hwan/LinKU)                                      | `25.02 - present` | 건국대 학생을 위한 교내외 링크 모음 Chrome Extension (MAU 200+)           |
+| [@gdgoc-konkuk](https://github.com/gdgoc-konkuk)                                   | `24.09 - present` | Google Developer Groups on Campus Konkuk 25-26 Core                       |
+| [@Konkuk-Univ-Student-Developer](https://github.com/Konkuk-Univ-Student-Developer) | `25.06 - 26.08`   | 건국대 학생개발팀 KUSD 3기, 차세대 학사정보시스템 UX 개선 및 AI 챗봇 개발 |
+| [@Konkuk-KUIT](https://github.com/Konkuk-KUIT)                                     | `24.03 - 25.08`   | 건국대 개발동아리 KUIT Web Part Lead (4기·5기 파트장, 부회장)             |
+| [KUmoney GO](https://github.com/uxplorerss/uxplorers-frontend)                     | `24.09 - 24.12`   | 고속버스 예매 UX flow 및 성능 개선 (6인 팀)                               |
+| [Space Project](https://github.com/KUIT-Space/KUIT-Space-front)                    | `24.06 - 24.08`   | 단 하나의 동아리/팀프로젝트 커뮤니티 (KUIT 3기 데모데이 최우수상)         |
+| [MiliDream](https://github.com/osamhack2022/WEB_MiliDream_Dreamers)                | `22.10`           | 군인들을 위한 진로 설계 및 취미 공유 웹 플랫폼 (2022 OSAM 해커톤 본선)    |
+| [@1982kca](https://github.com/1982kca)                                             | `21.06 - 21.12`   | 건국대 컴퓨터 중앙동아리 KCA 회장                                         |
+
 ## Education
 
 #### Konkuk University : 19.03 ~ 26.6 (졸업 예정)
