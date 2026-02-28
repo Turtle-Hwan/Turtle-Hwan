@@ -2,7 +2,7 @@
 
 # Kim Ji-Hwan (Turtle-Hwan) 🐢
 
-> ☄️ 🌌 🚀 Nice to meet you, Hitchhikers who have traveled here across the galaxy! 🌠 🪐 🛸
+☄️ 🌌 🚀 Nice to meet you, Hitchhikers who have traveled here across the galaxy! 🌠 🪐 🛸
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/turtlehwan)
 [![Tistory](https://img.shields.io/badge/Tistory-FF5544?style=for-the-badge&logo=tistory&logoColor=white)](https://turtle-hwan.tistory.com/)
