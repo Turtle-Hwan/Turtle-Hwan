@@ -38,16 +38,16 @@
 
 ## Projects & Organizations
 
-| Title                                                                              | Period            | Summary                                                                                   |
-| :--------------------------------------------------------------------------------- | :---------------- | :---------------------------------------------------------------------------------------- |
-| [LinKU](https://github.com/Turtle-Hwan/LinKU)                                      | `25.02 - present` | Chrome Extension for Konkuk students — campus links & resources hub (MAU 200+)            |
-| [@gdgoc-konkuk](https://github.com/gdgoc-konkuk)                                   | `24.09 - present` | Google Developer Groups on Campus Konkuk — 25-26 Core                                     |
-| [@Konkuk-Univ-Student-Developer](https://github.com/Konkuk-Univ-Student-Developer) | `25.06 - 26.08`   | Konkuk Univ. Student Dev Team KUSD — 3rd cohort, next-gen academic portal UX & AI chatbot |
-| [@Konkuk-KUIT](https://github.com/Konkuk-KUIT)                                     | `24.03 - 25.08`   | Konkuk Univ. dev club KUIT — Web Part Lead (4th·5th cohort, VP)                           |
-| [KUmoney GO](https://github.com/uxplorerss/uxplorers-frontend)                     | `24.09 - 24.12`   | Express bus booking UX flow & performance improvement (Team of 6)                         |
-| [Space Project](https://github.com/KUIT-Space/KUIT-Space-front)                    | `24.06 - 24.08`   | The one and only club/team-project community (KUIT 3rd Demo Day Best Award)               |
-| [MiliDream](https://github.com/osamhack2022/WEB_MiliDream_Dreamers)                | `22.10`           | Career planning & hobby sharing platform for soldiers (2022 OSAM Hackathon Finalist)      |
-| [@1982kca](https://github.com/1982kca)                                             | `21.06 - 21.12`   | Konkuk Computer Association KCA — President                                               |
+| Title                                                                              | Period            | Summary                                                                                                     |
+| :--------------------------------------------------------------------------------- | :---------------- | :---------------------------------------------------------------------------------------------------------- |
+| [LinKU](https://github.com/Turtle-Hwan/LinKU)                                      | `25.02 - present` | Chrome Extension for Konkuk students — campus links & resources hub (MAU 200+)                              |
+| [@gdgoc-konkuk](https://github.com/gdgoc-konkuk)                                   | `24.09 - present` | Google Developer Student Club Konkuk 24-25 Member </br> Google Developer Groups on Campus Konkuk 25-26 Core |
+| [@Konkuk-Univ-Student-Developer](https://github.com/Konkuk-Univ-Student-Developer) | `25.06 - 25.08`   | Konkuk Univ. Student Dev Team KUSD — 3rd cohort </br> next-gen academic portal UX & AI chatbot              |
+| [@Konkuk-KUIT](https://github.com/Konkuk-KUIT)                                     | `24.03 - 25.08`   | Konkuk Univ. dev club KUIT — Web Part Lead </br> 3rd cohort Member, 4th·5th cohort Part Lead · VP           |
+| [KUmoney GO](https://github.com/uxplorerss/uxplorers-frontend)                     | `24.09 - 24.12`   | Express bus booking UX flow & performance improvement (Team of 6)                                           |
+| [Space Project](https://github.com/KUIT-Space/KUIT-Space-front)                    | `24.06 - 24.08`   | The one and only club/team-project community </br> 🏆 KUIT 3rd Demo Day Best Award                          |
+| [MiliDream](https://github.com/osamhack2022/WEB_MiliDream_Dreamers)                | `22.04 - 22.12`   | Career planning & hobby sharing platform for soldiers </br> 🏆 2022 OSAM Hackathon Finalist                 |
+| [@1982kca](https://github.com/1982kca)                                             | `21.06 - 21.12`   | Konkuk Computer Association KCA — President                                                                 |
 
 ## Education
 
