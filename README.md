@@ -26,13 +26,13 @@
 
 ## Career
 
-| 회사                                                      | 역할                       |        기간         | 주요 업무                                                                         |
-| :-------------------------------------------------------- | :------------------------- | :-----------------: | :-------------------------------------------------------------------------------- |
-| [당근마켓](https://www.daangn.com/)                       | Frontend Engineer          | `2025.12 - 2026.03` | 사내 Agentic AI 플랫폼 </br> CS 자동화 AI Agent, 신고/문의/챗봇 WebView           |
-| [AIM Intelligence](https://aim-intelligence.com/kr)       | Product Engineer           | `2025.04 - 2025.12` | AI Safety B2B SaaS </br> FastAPI AI Server, MCP                                   |
-| [다이닝코드](https://www.diningcode.com/)                 | Frontend Engineer          | `2024.12 - 2025.02` | QR Login, 식당 리뷰, 내가 저장한 맛집 페이지 </br> S3 Object Lambda 이미지 최적화 |
-| [엘리스](https://elice.io/ko)                             | Frontend Engineer          | `2024.07 - 2024.08` | MUI 기반 Design System 마이그레이션 </br> Lighthouse 접근성 개선                  |
-| [정보보호병](https://www.army.mil.kr/sites/army/index.do) | CERT, Information Security | `2022.01 - 2023.07` | 정보보안체계 운영 & 자동화                                                        |
+| 회사                                                      | 역할                       | 기간            | 주요 업무                                                                         |
+| :-------------------------------------------------------- | :------------------------- | :-------------- | :-------------------------------------------------------------------------------- |
+| [당근마켓](https://www.daangn.com/)                       | Frontend Engineer          | `25.12 - 26.03` | 사내 Agentic AI 플랫폼 </br> CS 자동화 AI Agent, 신고/문의/챗봇 WebView           |
+| [AIM Intelligence](https://aim-intelligence.com/kr)       | Product Engineer           | `25.04 - 25.12` | AI Safety B2B SaaS </br> FastAPI AI Server, MCP                                   |
+| [다이닝코드](https://www.diningcode.com/)                 | Frontend Engineer          | `24.12 - 25.02` | QR Login, 식당 리뷰, 내가 저장한 맛집 페이지 </br> S3 Object Lambda 이미지 최적화 |
+| [엘리스](https://elice.io/ko)                             | Frontend Engineer          | `24.07 - 24.08` | MUI 기반 Design System 마이그레이션 </br> Lighthouse 접근성 개선                  |
+| [정보보호병](https://www.army.mil.kr/sites/army/index.do) | CERT, Information Security | `22.01 - 23.07` | 정보보안체계 운영 & 자동화                                                        |
 
 ## Education
 
