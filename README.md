@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/turtlehwan)
 [![Tistory](https://img.shields.io/badge/Tistory-FF5544?style=for-the-badge&logo=tistory&logoColor=white)](https://turtle-hwan.tistory.com/)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://turtlehwan.notion.site/)
+<!-- [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://turtlehwan.notion.site/) -->
 
 🇰🇷 한국어 | 🇺🇸 [English](./README_EN.md)
 
