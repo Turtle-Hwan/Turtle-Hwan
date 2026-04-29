@@ -41,7 +41,7 @@
 
 | Title                                                                              | Period            | Summary                                                                                                     |
 | :--------------------------------------------------------------------------------- | :---------------- | :---------------------------------------------------------------------------------------------------------- |
-| [LinKU](https://github.com/Turtle-Hwan/LinKU)                                      | `25.02 - present` | Chrome Extension for Konkuk students — campus links & resources hub (MAU 200+)                              |
+| [LinKU](https://github.com/Turtle-Hwan/LinKU)                                      | `25.02 - present` | Chrome Extension for Konkuk students — campus links & resources hub (DAU 200+)                              |
 | [@gdgoc-konkuk](https://github.com/gdgoc-konkuk)                                   | `24.09 - present` | Google Developer Student Club Konkuk 24-25 Member </br> Google Developer Groups on Campus Konkuk 25-26 Core |
 | [@Konkuk-Univ-Student-Developer](https://github.com/Konkuk-Univ-Student-Developer) | `25.06 - 25.08`   | Konkuk Univ. Student Dev Team KUSD — 3rd cohort </br> next-gen academic portal UX & AI chatbot              |
 | [@Konkuk-KUIT](https://github.com/Konkuk-KUIT)                                     | `24.03 - 25.08`   | Konkuk Univ. dev club KUIT — Web Part Lead </br> 3rd cohort Member, 4th·5th cohort Part Lead · VP           |
