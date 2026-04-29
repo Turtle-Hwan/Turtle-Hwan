@@ -40,7 +40,7 @@
 
 | 제목                                                                               | 기간              | 요약                                                                                                        |
 | :--------------------------------------------------------------------------------- | :---------------- | :---------------------------------------------------------------------------------------------------------- |
-| [LinKU](https://github.com/Turtle-Hwan/LinKU)                                      | `25.02 - present` | 건국대 학생을 위한 교내외 링크 모음 Chrome Extension (MAU 200+)                                             |
+| [LinKU](https://github.com/Turtle-Hwan/LinKU)                                      | `25.02 - present` | 건국대 학생을 위한 교내외 링크 모음 Chrome Extension (DAU 200+)                                             |
 | [@gdgoc-konkuk](https://github.com/gdgoc-konkuk)                                   | `24.09 - present` | Google Developer Student Club Konkuk 24-25 Member </br> Google Developer Groups on Campus Konkuk 25-26 Core |
 | [@Konkuk-Univ-Student-Developer](https://github.com/Konkuk-Univ-Student-Developer) | `25.06 - 25.08`   | 건국대 학생개발팀 KUSD 3기 </br> 차세대 학사정보시스템 UX 개선 및 AI 챗봇 개발                              |
 | [@Konkuk-KUIT](https://github.com/Konkuk-KUIT)                                     | `24.03 - 25.08`   | 건국대 개발동아리 KUIT Web Part Lead </br> 3기 부원, 4·5기 파트장 · 부회장                                  |
